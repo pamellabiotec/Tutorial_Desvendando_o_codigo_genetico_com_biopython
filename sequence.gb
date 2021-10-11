@@ -1,0 +1,112 @@
+LOCUS       PPYLUC                  2387 bp    DNA     linear   INV 26-APR-1993
+DEFINITION  P.pyralis (firefly) luciferase gene, complete cds.
+ACCESSION   M15077
+VERSION     M15077.1
+KEYWORDS    luciferase.
+SOURCE      Photinus pyralis (common eastern firefly)
+  ORGANISM  Photinus pyralis
+            Eukaryota; Metazoa; Ecdysozoa; Arthropoda; Hexapoda; Insecta;
+            Pterygota; Neoptera; Endopterygota; Coleoptera; Polyphaga;
+            Elateriformia; Elateroidea; Lampyridae; Lampyrinae; Photinus.
+REFERENCE   1  (bases 1 to 2387)
+  AUTHORS   de Wet,J.R., Wood,K.V., DeLuca,M., Helinski,D.R. and Subramani,S.
+  TITLE     Firefly luciferase gene: structure and expression in mammalian
+            cells
+  JOURNAL   Mol. Cell. Biol. 7 (2), 725-737 (1987)
+   PUBMED   3821727
+COMMENT     Original source text: Firefly DNA, clones pJD[180,181,182,183].
+            Clean copy of sequence [1] kindly provided by S.Subramani
+            (02-APR-1987).
+FEATURES             Location/Qualifiers
+     source          1..2387
+                     /organism="Photinus pyralis"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:7054"
+     mRNA            253..2387
+                     /product="LUC mRNA"
+     CDS             join(304..429,487..694,746..1079,1128..1448,1498..1852,
+                     1896..2061,2109..2251)
+                     /note="Luciferase"
+                     /codon_start=1
+                     /protein_id="AAA29795.1"
+                     /translation="MEDAKNIKKGPAPFYPLEDGTAGEQLHKAMKRYALVPGTIAFTD
+                     AHIEVNITYAEYFEMSVRLAEAMKRYGLNTNHRIVVCSENSLQFFMPVLGALFIGVAV
+                     APANDIYNERELLNSMNISQPTVVFVSKKGLQKILNVQKKLPIIQKIIIMDSKTDYQG
+                     FQSMYTFVTSHLPPGFNEYDFVPESFDRDKTIALIMNSSGSTGLPKGVALPHRTACVR
+                     FSHARDPIFGNQIIPDTAILSVVPFHHGFGMFTTLGYLICGFRVVLMYRFEEELFLRS
+                     LQDYKIQSALLVPTLFSFFAKSTLIDKYDLSNLHEIASGGAPLSKEVGEAVAKRFHLP
+                     GIRQGYGLTETTSAILITPEGDDKPGAVGKVVPFFEAKVVDLDTGKTLGVNQRGELCV
+                     RGPMIMSGYVNNPEATNALIDKDGWLHSGDIAYWDEDEHFFIVDRLKSLIKYKGYQVA
+                     PAELESILLQHPNIFDAGVAGLPDDDAGELPAAVVVLEHGKTMTEKEIVDYVASQVTT
+                     AKKLRGGVVFVDEVPKGLTGKLDARKIREILIKAKKGGKSKL"
+     exon            <304..429
+                     /note="Luciferase"
+                     /number=1
+     intron          430..486
+                     /note="LUC cds intron A"
+     exon            487..694
+                     /number=2
+     intron          695..745
+                     /note="LUC cds intron B"
+     exon            746..1079
+                     /number=3
+     intron          1080..1127
+                     /note="LUC cds intron C"
+     exon            1128..1448
+                     /number=4
+     intron          1449..1497
+                     /note="LUC cds intron D"
+     exon            1498..1852
+                     /number=5
+     intron          1853..1895
+                     /note="LUC cds intron E"
+     exon            1896..2061
+                     /number=6
+     intron          2062..2108
+                     /note="LUC cds intron F"
+     exon            2109..>2251
+                     /note="Luciferase"
+                     /number=7
+ORIGIN      5 bp upstream of PstI site.
+        1 ctgcagaaat aactaggtac taagcccgtt tgtgaaaagt ggccaaaccc ataaatttgg
+       61 caattacaat aaagaagcta aaattgtggt caaactcaca aacattttta ttatatacat
+      121 tttagtagct gatgcttata aaagcaatat ttaaatcgta aacaacaaat aaaataaaat
+      181 ttaaacgatg tgattaagag ccaaaggtcc tctagaaaaa ggtatttaag caacggaatt
+      241 cctttgtgtt acattcttga atgtcgctcg cagtgacatt agcattccgg tactgttggt
+      301 aaaatggaag acgccaaaaa cataaagaaa ggcccggcgc cattctatcc tctagaggat
+      361 ggaaccgctg gagagcaact gcataaggct atgaagagat acgccctggt tcctggaaca
+      421 attgcttttg tgagtatttc tgtctgattt ctttcgagtt aacgaaatgt tcttatgttt
+      481 ctttagacag atgcacatat cgaggtgaac atcacgtacg cggaatactt cgaaatgtcc
+      541 gttcggttgg cagaagctat gaaacgatat gggctgaata caaatcacag aatcgtcgta
+      601 tgcagtgaaa actctcttca attctttatg ccggtgttgg gcgcgttatt tatcggagtt
+      661 gcagttgcgc ccgcgaacga catttataat gaacgtaagc accctcgcca tcagaccaaa
+      721 gggaatgacg tatttaattt ttaaggtgaa ttgctcaaca gtatgaacat ttcgcagcct
+      781 accgtagtgt ttgtttccaa aaaggggttg caaaaaattt tgaacgtgca aaaaaaatta
+      841 ccaataatcc agaaaattat tatcatggat tctaaaacgg attaccaggg atttcagtcg
+      901 atgtacacgt tcgtcacatc tcatctacct cccggtttta atgaatacga ttttgtacca
+      961 gagtcctttg atcgtgacaa aacaattgca ctgataatga attcctctgg atctactggg
+     1021 ttacctaagg gtgtggccct tccgcataga actgcctgcg tcagattctc gcatgccagg
+     1081 tatgtcgtat aacaagagat taagtaatgt tgctacacac attgtagaga tcctattttt
+     1141 ggcaatcaaa tcattccgga tactgcgatt ttaagtgttg ttccattcca tcacggtttt
+     1201 ggaatgttta ctacactcgg atatttgata tgtggatttc gagtcgtctt aatgtataga
+     1261 tttgaagaag agctgttttt acgatccctt caggattaca aaattcaaag tgcgttgcta
+     1321 gtaccaaccc tattttcatt cttcgccaaa agcactctga ttgacaaata cgatttatct
+     1381 aatttacacg aaattgcttc tgggggcgca cctctttcga aagaagtcgg ggaagcggtt
+     1441 gcaaaacggt gagttaagcg cattgctagt atttcaaggc tctaaaacgg cgcgtagctt
+     1501 ccatcttcca gggatacgac aaggatatgg gctcactgag actacatcag ctattctgat
+     1561 tacacccgag ggggatgata aaccgggcgc ggtcggtaaa gttgttccat tttttgaagc
+     1621 gaaggttgtg gatctggata ccgggaaaac gctgggcgtt aatcagagag gcgaattatg
+     1681 tgtcagagga cctatgatta tgtccggtta tgtaaacaat ccggaagcga ccaacgcctt
+     1741 gattgacaag gatggatggc tacattctgg agacatagct tactgggacg aagacgaaca
+     1801 cttcttcata gttgaccgct tgaagtcttt aattaaatac aaaggatatc aggtaatgaa
+     1861 gatttttaca tgcacacacg ctacaatacc tgtaggtggc ccccgctgaa ttggaatcga
+     1921 tattgttaca acaccccaac atcttcgacg cgggcgtggc aggtcttccc gacgatgacg
+     1981 ccggtgaact tcccgccgcc gttgttgttt tggagcacgg aaagacgatg acggaaaaag
+     2041 agatcgtgga ttacgtcgcc agtaaatgaa ttcgttttac gttactcgta ctacaattct
+     2101 tttcataggt caagtaacaa ccgcgaaaaa gttgcgcgga ggagttgtgt ttgtggacga
+     2161 agtaccgaaa ggtcttaccg gaaaactcga cgcaagaaaa atcagagaga tcctcataaa
+     2221 ggccaagaag ggcggaaagt ccaaattgta aaatgtaact gtattcagcg atgacgaaat
+     2281 tcttagctat tgtaatatta tatgcaaatt gatgaatggt aattttgtaa ttgtgggtca
+     2341 ctgtactatt ttaacgaata ataaaatcag gtataggtaa ctaaaaa
+//
+

@@ -2,7 +2,7 @@
 
 # Desvendando o código genético com Biopython
 
-Esse Tutorial será apresentado na [**Python Brasil 2021**](https://2021.pythonbrasil.org.br/), no dia **17/10 - Domingo, entre 9:00hs às 12:00hs**. Sendo produzido a partir do curso de estudo de [biopython](https://biopython.org/) desenvolvido pelas **Pyladies Bioinfo** que por sua vez se embasaram na [documentação oficial](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf).
+Esse Tutorial será apresentado na [**Python Brasil 2021**](https://2021.pythonbrasil.org.br/), no dia **17/10** - **Domingo**, entre **10:00hs às 12:00hs**. Sendo produzido a partir do curso de estudo de [biopython](https://biopython.org/) desenvolvido pelas **Pyladies Bioinfo** que por sua vez se embasaram na [documentação oficial](http://biopython.org/DIST/docs/tutorial/Tutorial.pdf).
 
 O objetivo desse tutorial é contextualizar e introduzir o uso da biblioteca biopython para análise de dados biológicos.
 
